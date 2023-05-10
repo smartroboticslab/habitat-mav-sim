@@ -1,3 +1,3 @@
 [submodule "habitat-ros"]
 	path = habitat-ros
-	url = https://bitbucket.org/smartroboticslab/habitat-ros.git
+	url = ../habitat-ros.git
