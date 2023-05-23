@@ -1,3 +1,6 @@
 [submodule "habitat-ros"]
 	path = habitat-ros
 	url = ../habitat-ros.git
+[submodule "mav_interface_msgs"]
+	path = mav_interface_msgs
+	url = ../mav_interface_msgs.git
